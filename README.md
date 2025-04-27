@@ -1,2 +1,2 @@
 # Power Bi project
-Power Bi ile Mushteri xidmetleri analizi
+Customer Service Analysis with Power BI
